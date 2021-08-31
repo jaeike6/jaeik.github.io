@@ -1,0 +1,30 @@
+.box-L {
+    min-height: 500px;
+    padding: 5px;
+    margin: 5px;
+    font-weight: 100;
+    color:black;
+  }
+
+.box-S {
+    min-height: 300px;
+    padding: 5px;
+    margin: 5px;
+    color:black;
+  }
+    
+
+  .white {
+    background: white;
+  }
+  
+  .grey {
+    background: rgb(221, 219, 219);
+  }
+  .purple {
+    background: rebeccapurple;
+  }
+  
+  .red {
+    background: indianred;
+  }
